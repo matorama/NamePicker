@@ -17,6 +17,9 @@ function printNames() {
 
 printNames();
 
+//the following is mostly Blaise Thomas code, slightly adjusted by me, namely I used RGB
+//instead of hex code for background colors.
+
   function namePicker(){
     //pick random numbers for color
     var red = Math.floor(Math.random() * 255);

@@ -1,0 +1,18 @@
+.container {
+	width: 750px; margin: 0 auto; text-align:center;
+} 
+
+body {
+	background-color: red; color:white;
+}
+
+#picked-name {
+	margin-top: 80px;
+	font-size: 80px;
+	font-family: arial;
+	font-style: italic;
+}
+
+h1 {
+	font-family: arial;
+}
